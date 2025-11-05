@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+.venv
+venv/
+
+# FAISS artifacts
+server/storage/
+
+# Node/React
+web/node_modules/
+web/dist/
+web/.env*
+.DS_Store
+
+# OS
+Thumbs.db
